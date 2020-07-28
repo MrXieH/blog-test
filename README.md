@@ -3,8 +3,8 @@
 hello,我叫大F,欢迎看我的介绍
 
 ## 爱好
-- freestyle
-- rap
+1. freestyle
+2. rap
 
 ## 特长
 - 有很好的balance
