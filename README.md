@@ -11,6 +11,9 @@ hello,我叫大F,欢迎看我的介绍
 
 ## 其他
 ``` javascript
-console.log('我的照片')
+function showPhoto() {
+  console.log('我的照片')
+}
+showPhoto()
 ```
 ![我的照片](photo.jpg)
