@@ -15,5 +15,5 @@ function showPhoto() {
   console.log('我的照片')
 }
 ```
-    showPhoto()
+` showPhoto() `
 ![我的照片](photo.jpg)
